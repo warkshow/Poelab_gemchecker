@@ -42,3 +42,7 @@ build/
 coverage.xml
 *.cover
 .pytest_cache/
+
+# Other
+
+testimg.png

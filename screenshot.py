@@ -94,10 +94,10 @@ class Application():
 
     def display_rectangle_position(self):
         pass
-        #print(self.start_x)
-        #print(self.start_y)
-        #print(self.current_x)
-        #print(self.current_y)
+        print(self.start_x)
+        print(self.start_y)
+        print(self.current_x)
+        print(self.current_y)
 
 
 
